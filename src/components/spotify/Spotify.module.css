@@ -1,0 +1,8 @@
+.theme{
+    text-align: center;
+    color: rgba(30, 215, 96, 1);
+}
+.links{
+    display: flex;
+    justify-content: center;
+}

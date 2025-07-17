@@ -1,0 +1,25 @@
+.wraper{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.links{
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+    border: 1px solid rgba(30, 215, 96, 1);
+    border-radius: 15px;
+    color:  rgba(30, 215, 96, 1);
+    
+    
+    padding: 5px;
+}
+.svg{
+  stroke: black; 
+  transition: all 0.2s ease;
+}
+.svg:hover{
+
+color: blue;
+transform: translateY(-5px);
+}
